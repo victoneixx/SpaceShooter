@@ -37,6 +37,10 @@
   "resources":[
     {"id":{"name":"rm_inicio","path":"rooms/rm_inicio/rm_inicio.yy",},},
     {"id":{"name":"spr_bg0","path":"sprites/spr_bg0/spr_bg0.yy",},},
+    {"id":{"name":"spr_bg1","path":"sprites/spr_bg1/spr_bg1.yy",},},
+    {"id":{"name":"spr_bg2","path":"sprites/spr_bg2/spr_bg2.yy",},},
+    {"id":{"name":"spr_bg3","path":"sprites/spr_bg3/spr_bg3.yy",},},
+    {"id":{"name":"spr_fg","path":"sprites/spr_fg/spr_fg.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
