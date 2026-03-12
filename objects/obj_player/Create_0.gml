@@ -56,6 +56,7 @@ tiro_3 = function(){
 }
 
 ganha_level_tiro = function(){
-	level_tiro = clamp(level_tiro, 1, 3);
-	level_tiro += 1;
+	if(level_tiro < 3){
+		level_tiro += 1;
+	}
 }

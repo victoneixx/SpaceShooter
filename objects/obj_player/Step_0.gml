@@ -1,4 +1,6 @@
 controla_player();
+if(keyboard_check_released(vk_tab)) global.debug =! global.debug;
+
 
 if(keyboard_check_pressed(ord("1"))){
 	level_tiro = 1;
